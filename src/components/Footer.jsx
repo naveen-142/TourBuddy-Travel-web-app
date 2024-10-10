@@ -10,7 +10,7 @@ export default function Footer() {
     <div>
       {/* <ReviewsAndForm /> Include the Reviews and Form above the footer */}
       <FooterContainer>
-        <span>Copyright &copy; 2021 tourbuddy. All rights reserved</span>
+        <span>Copyright &copy; 2024 Tourbuddy. All rights reserved</span>
         <ul className="links">
           <li>
             <a href="#hero">Home</a>
